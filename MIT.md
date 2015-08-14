@@ -29,7 +29,7 @@ Copyright (c) <год> <владельцы прав>
 
 ## English
 
-Copyright (c) <year> <copyright holders>
+Copyright (c) < year > < copyright holders >
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
