@@ -1,4 +1,6 @@
-# Russian
+# MIT License
+
+## Russian
 
 Copyright (c) <год> <владельцы прав>
 
@@ -25,7 +27,7 @@ Copyright (c) <год> <владельцы прав>
 ИЛИ ИНЫХ ДЕЙСТВИЙ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ.
 
 
-# English
+## English
 
 Copyright (c) <year> <copyright holders>
 
