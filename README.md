@@ -1,3 +1,4 @@
 # Licenses
 
-* [MIT](/MIT.md)
+* [MIT License](/MIT.md)
+* [BSD License](/BSD.md)
