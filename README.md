@@ -1,0 +1,3 @@
+# Licenses
+
+[MIT](/MIT.md)
